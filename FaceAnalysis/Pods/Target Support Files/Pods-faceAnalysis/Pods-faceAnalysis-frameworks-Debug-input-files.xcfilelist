@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-faceAnalysis/Pods-faceAnalysis-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AZSClient/AZSClient.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework

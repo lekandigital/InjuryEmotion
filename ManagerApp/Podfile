@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+
+target 'hackathonproj' do
+  use_frameworks!
+
+pod 'Alamofire'
+pod 'AZSClient'
+
+end

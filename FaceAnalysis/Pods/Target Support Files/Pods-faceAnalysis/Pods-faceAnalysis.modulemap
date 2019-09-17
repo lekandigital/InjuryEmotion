@@ -1,0 +1,6 @@
+framework module Pods_faceAnalysis {
+  umbrella header "Pods-faceAnalysis-umbrella.h"
+
+  export *
+  module * { export * }
+}
