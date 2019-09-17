@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AZSClient (0.2.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - AZSClient
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AZSClient
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AZSClient: efd576cabf56f97e38cb1b614739f4b0c1906392
+
+PODFILE CHECKSUM: 6ce68fcabb820cdb57a64200ec46a8ffd61ea7aa
+
+COCOAPODS: 1.7.2
