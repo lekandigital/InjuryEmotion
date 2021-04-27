@@ -4,8 +4,8 @@
 
 **Demo**
 
-<img src="Worker_Demo_Final.gif"  height="790">
-<img src="Manager_Demo_Final.gif" height="790">
+<img src="Worker_Demo_Final.gif"  height="390">
+<img src="Manager_Demo_Final.gif" height="390">
 
 ## Acknowledgement
 
