@@ -4,11 +4,11 @@
 
 **Worker Demo**
 
-![Injury%20Emotion%20142f0661d816486db3b6b5a8d092907f/Worker_Demo_Final.gif](Injury%20Emotion%20142f0661d816486db3b6b5a8d092907f/Worker_Demo_Final.gif)
+![](Worker_Demo_Final.gif)
 
 **Manager Demo**
 
-![Injury%20Emotion%20142f0661d816486db3b6b5a8d092907f/Manager_Demo_Final.gif](Injury%20Emotion%20142f0661d816486db3b6b5a8d092907f/Manager_Demo_Final.gif)
+![](Manager_Demo_Final.gif)
 
 ## Acknowledgement
 
