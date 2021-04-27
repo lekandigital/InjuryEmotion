@@ -4,12 +4,9 @@
 
 **Demo**
 
-<img src="Worker_Demo_Final.gif"  height="390">
-<img src="Manager_Demo_Final.gif" height="390">
-
-Solarized dark             |  Solarized Ocean
+Worker Demo                |  Manager Demo
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+<img src="Worker_Demo_Final.gif"  height="390">  |  <img src="Manager_Demo_Final.gif" height="390">
 
 ## Acknowledgement
 
