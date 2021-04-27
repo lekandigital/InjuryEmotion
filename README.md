@@ -6,8 +6,6 @@
 
 ![](Worker_Demo_Final.gif)
 
-![test image size]<img src="https://fullpath/assets/yourgif.gif" width="400" height="790">
-
 **Manager Demo**
 
 ![](Manager_Demo_Final.gif)
