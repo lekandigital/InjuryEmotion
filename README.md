@@ -7,6 +7,10 @@
 <img src="Worker_Demo_Final.gif"  height="390">
 <img src="Manager_Demo_Final.gif" height="390">
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
 ## Acknowledgement
 
 Created by Rukshar, Mathew, Mohamed and Lekan
